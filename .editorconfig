@@ -1,0 +1,25 @@
+# EditorConfig is awesome: https://editorconfig.org
+
+# Root and only file.
+root = true
+
+# General files in Lua and C prefer less indent size.
+# Most stay equall to all the other files.
+[*]
+indent_style = space
+indent_size = 2
+end_of_line = crlf
+charset = utf-8
+trim_trailing_whitespace = true
+insert_final_newline = false
+
+# JSON, XML, the Rockspec and a
+# few others need more indent size.
+[*.{json,rockspec,xml}]
+indent_size = 4
+
+# Markdown files have some specific rules
+# with trailing space and new lines.
+[*.md]
+trim_trailing_whitespace = false
+insert_final_newline = true

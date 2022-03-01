@@ -1,0 +1,11 @@
+[0.0.1]
+- Initial commit
+- Added README
+- Added LICENSE
+- Added CODE_OF_CONDUCT
+- Added SECURITY
+- Added Git Ignore and Attributes files
+- Added EditorConfig file
+- First implemented autoload and static environment class (Shivering)
+- Created static classes (Cheese, Sheo, Haskill, Jygg and Dyus)
+- Created "dist" folder
