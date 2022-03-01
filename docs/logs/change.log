@@ -1,3 +1,8 @@
+[0.0.2]
+- Tested implemented files on Windows
+- Fixed some verification for DOS OS
+- Autoloader working on both DOS and UNIX
+
 [0.0.1]
 - Initial commit
 - Added README
