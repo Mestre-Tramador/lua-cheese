@@ -1,6 +1,6 @@
 # Politica de Seguridad
 
-**Lea también en: [English](./SECURITY.md), [Brazilian Portuguese](./SECURITY.PT-BR.md)**
+**Lea también en: [English](./SECURITY.md), [Português Brasileiro](./SECURITY.PT-BR.md)**
 
 Esta interfaz de comando es solo un software educativo y de código abierto sin la intuición de lucrar ni usar para recuperar ningún dato personal o sensible. La Base de Datos utilizada es ficticia y solo para pruebas, por lo que no se insertarán datos reales en ella. **No se recomienda ejecutar este programa en Producción**.
 
